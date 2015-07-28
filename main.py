@@ -3,7 +3,6 @@
 import ConfigParser
 import os
 import sys
-
 import tornado.httpserver
 from tornado.options import define, options
 import tornado.web
